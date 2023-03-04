@@ -55,7 +55,7 @@
 
 <img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222920333-f5d57914-e715-4cca-aa95-2798db3f68dd.png">
 
-### Add image to asset catalog (4 - Rename file)
+### Add image to asset catalog (4) Rename file
 
 <img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222920770-3e334b74-326c-4544-ba68-a3c2da14c134.png">
 
@@ -95,6 +95,27 @@
 
 <img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222921238-a6e0f3bc-b410-40fe-a420-727244e97f48.png">
 
+## Section 5: Use SwiftUI Views From Other Frameworks
+
+### Create new UI file (1)
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222921738-eb15d100-e52d-4b2e-8c7c-33e0f47d7c11.png">
+
+### Create new UI file (2) MapView.swift
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222921782-6e55bd59-91bc-4d1c-99e5-f8b00a0b61dd.png">
+
+### Add import statement
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222921849-ecc40f30-5043-4c16-9f26-80fe92eb4bb5.png">
+
+## Add State
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222922265-9ff97928-a882-449f-a597-32d73b056356.png">
+
+## Add Map view with $state as coordinates
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222922348-982b7fc8-b609-40cd-a88c-992fb1aef8af.png">
 
 
 # xCode
@@ -105,4 +126,23 @@
 ### Editor
 ### Canvas
 ### Inspector
+
+## Concepts
+
+### Binding ($)
+
+- For example $state
+- It is like a reference to the underlying value
+
+### State variable
+
+- Attribute: @State
+- Source of truth for data
+- All related views will automatically updated when data changes
+
+## Shortcuts
+
+- CTRL-I: Autoformat (indentation)
+
+
 
