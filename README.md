@@ -336,6 +336,6 @@ See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftu
 
 <a href="https://youtu.be/Jkzf_HWq90Y?t=666"><img width="1201" alt="image" src="https://github.com/michael-holzheu/Landmarks/blob/main/user-images/222926142-fa1a4a82-2d2d-4f5a-b22e-b6fb10ddf08d-play.png"></a>
 
-Best Regards and Happy Coding!
+Best Regards and Happy Coding with Tranquillity
 
 Michael Holzheu
