@@ -14,6 +14,8 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
   * [Containers](#containers)
     + [General](#general)
   * [Shortcuts](#shortcuts)
+- [Section 1: Create a New Project and Explore the Canvas](#section-1--create-a-new-project-and-explore-the-canvas)
+- [Section 2: Customize the Text View](#section-2--customize-the-text-view)
 - [Section 3: Combine Views Using Stacks](#section-3--combine-views-using-stacks)
   * [Create VStack](#create-vstack)
     + [Befor Create](#befor-create)
@@ -55,7 +57,7 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
   * [Add CircleImage](#add-circleimage)
   * [Move up CircleImage](#move-up-circleimage)
   * [Add Spacer to move all to top of the screen](#add-spacer-to-move-all-to-top-of-the-screen)
-  * [Add ignoresSaveArea (no effect?)](#add-ignoressavearea)
+  * [Add ignoresSaveArea](#add-ignoressavearea)
   * [Add descriptive text](#add-descriptive-text)
   * [Move attributes to HStack](#move-attributes-to-hstack)
   * [Remove green](#remove-green)
@@ -69,7 +71,8 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
   * [App will be installed, but can't be run](#app-will-be-installed--but-can-t-be-run)
   * [Trust developer - Step 1: Einstellungen > Allgemein > Geräteverwaltung](#trust-developer---step-1--einstellungen---allgemein---ger-teverwaltung)
   * [Trust developer - Step 2](#trust-developer---step-2)
-  * [Run app - Tada!](#run-app)
+  * [Run app](#run-app)
+
 
 # What we will learn about xCode
 
@@ -120,6 +123,14 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
 
 - CMD-Click: Opens context menu
 - CTRL-I: Autoformat (indentation)
+
+# Section 1: Create a New Project and Explore the Canvas
+
+See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Customize-the-Text-View)
+
+# Section 2: Customize the Text View
+
+See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Create-a-New-Project-and-Explore-the-Canvas)
 
 # Section 3: Combine Views Using Stacks
 
