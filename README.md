@@ -117,6 +117,52 @@
 
 <img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222922348-982b7fc8-b609-40cd-a88c-992fb1aef8af.png">
 
+## Section 6: Compose the Detail View
+
+### Create new VStack (1)
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222922821-f310a9b9-f07c-42c9-97c3-06e1d6b33226.png">
+
+### Create new VStack (2)
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/13906644/222923028-2d07bbf6-b79c-4e17-ae41-ddc1d0fb67ed.png">
+
+### Add MapView
+
+<img width="1244" alt="image" src="https://user-images.githubusercontent.com/13906644/222923165-daf04ba6-e557-4d52-8e1f-5fd5050fd6bc.png">
+
+### Remove image (leftover from initial template)
+
+<img width="1244" alt="image" src="https://user-images.githubusercontent.com/13906644/222923244-5dcbd1e9-8e23-40c7-946d-e68573a35ad9.png">
+
+### Add CircleImage
+
+<img width="1244" alt="image" src="https://user-images.githubusercontent.com/13906644/222923342-2a0defd3-3a43-481c-a9aa-29ff7d724934.png">
+
+### Move up CircleImage
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222923453-9288fcc5-00b1-4e96-9381-94e15e14053c.png">
+
+### Add Spacer to move all to top of the screen
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222923513-c8283c23-d949-453d-9898-2f06ceebf096.png">
+
+### Add ignoresSaveArea (no effect?)
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222923673-4bcd96b8-35bb-4a14-9a6d-28fba2762d58.png">
+
+### Add descriptive text
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222924081-806587b9-c5b9-49a9-bd82-7822a8ae69ad.png">
+
+### Move attributes to HStack
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222924291-0613675b-cfd3-43ee-a691-a1b9fde28324.png">
+
+### Remove green
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222924331-ff5c9111-a529-44ad-837e-12e340195da4.png">
+
 
 # xCode
 ## Components
@@ -140,8 +186,24 @@
 - Source of truth for data
 - All related views will automatically updated when data changes
 
+## Views
+
+### Divider
+### Image
+### Map
+### Spacer
+### Text
+
+## Containers
+
+- All attributes to container (e.g. font) apply to all children
+
+### HStack
+### VStack
+
 ## Shortcuts
 
+- CMD-Click: Opens context menu
 - CTRL-I: Autoformat (indentation)
 
 
