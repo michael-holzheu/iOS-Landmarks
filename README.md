@@ -163,6 +163,48 @@
 
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222924331-ff5c9111-a529-44ad-837e-12e340195da4.png">
 
+## Section 7: Run on real device
+
+### Add Account
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222924785-f2f94ddc-c365-4dee-b7ec-a9727a53b369.png">
+
+### Assign Team
+
+<img width="1251" alt="image" src="https://user-images.githubusercontent.com/13906644/222925036-dc4de8ef-2cb9-43a1-9700-cce0b6b1675e.png">
+
+### Enalbe developer modus on iPad
+
+<img width="1030" alt="image" src="https://user-images.githubusercontent.com/13906644/222925294-9bc52284-7e53-47e4-b165-c3f531359a1f.png">
+
+### Restart iPad
+
+<img width="1035" alt="image" src="https://user-images.githubusercontent.com/13906644/222925329-02fce384-a750-4c27-bb79-dbae36284fd4.png">
+
+### Connect iPad via USB and select
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/13906644/222924893-94fb86f9-1a4b-4193-8738-deba3e76749e.png">
+
+### Run app
+
+<img width="1277" alt="image" src="https://user-images.githubusercontent.com/13906644/222925726-483b9626-1ada-4bfc-8dd9-775b51e6ccbe.png">
+
+### App will be installed, but can't be run
+
+<img width="1206" alt="image" src="https://user-images.githubusercontent.com/13906644/222925934-ae939876-728e-4ef9-b173-d433ab1953d1.png">
+
+### Trust developer (1) "Einstellungen" > "Allgemein" > "VPN & Geräteverwaltung"
+
+<img width="1207" alt="image" src="https://user-images.githubusercontent.com/13906644/222926012-0bb53063-594a-4e37-b0e7-3a8e38697d44.png">
+
+### Trust developer (2)
+
+<img width="1201" alt="image" src="https://user-images.githubusercontent.com/13906644/222926090-f494bac8-0a56-4bbc-ab50-c901cf14e733.png">
+
+### Run app (Tada!)
+
+<img width="1204" alt="image" src="https://user-images.githubusercontent.com/13906644/222926142-fa1a4a82-2d2d-4f5a-b22e-b6fb10ddf08d.png">
+
 
 # xCode
 ## Components
