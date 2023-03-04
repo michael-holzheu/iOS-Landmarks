@@ -14,9 +14,9 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
   * [Containers](#containers)
     + [General](#general)
   * [Shortcuts](#shortcuts)
-- [Section 1: Create a New Project and Explore the Canvas](#section-1--create-a-new-project-and-explore-the-canvas)
-- [Section 2: Customize the Text View](#section-2--customize-the-text-view)
-- [Section 3: Combine Views Using Stacks](#section-3--combine-views-using-stacks)
+- [Section 1 - Create a New Project and Explore the Canvas](#section-1---create-a-new-project-and-explore-the-canvas)
+- [Section 2 - Customize the Text View](#section-2---customize-the-text-view)
+- [Section 3 - Combine Views Using Stacks](#section-3---combine-views-using-stacks)
   * [Create VStack](#create-vstack)
     + [Befor Create](#befor-create)
     + [After Create](#after-create)
@@ -29,7 +29,7 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
   * [Add Spacer - Step 2](#add-spacer---step-2)
   * [Add Padding](#add-padding)
   * [Remove Padding](#remove-padding)
-- [Section 4: Create a Custom Image View](#section-4--create-a-custom-image-view)
+- [Section 4 - Create a Custom Image View](#section-4---create-a-custom-image-view)
   * [Add image to asset catalog - Step 1](#add-image-to-asset-catalog---step-1)
   * [Add image to asset catalog - Step 2](#add-image-to-asset-catalog---step-2)
   * [Add image to asset catalog - Step 3](#add-image-to-asset-catalog---step-3)
@@ -43,13 +43,13 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
   * [Add overlay](#add-overlay)
   * [Add shaddow](#add-shaddow)
   * [Change border color to white](#change-border-color-to-white)
-- [Section 5: Use SwiftUI Views From Other Frameworks](#section-5--use-swiftui-views-from-other-frameworks)
+- [Section 5 - Use SwiftUI Views From Other Frameworks](#section-5---use-swiftui-views-from-other-frameworks)
   * [Create new UI file - Step 1](#create-new-ui-file---step-1)
   * [Create new UI file - Step 2: MapView.swift](#create-new-ui-file---step-2--mapviewswift)
   * [Add import statement](#add-import-statement)
   * [Add State](#add-state)
   * [Add Map view with $state as coordinates](#add-map-view-with--state-as-coordinates)
-- [Section 6: Compose the Detail View](#section-6--compose-the-detail-view)
+- [Section 6 - Compose the Detail View](#section-6---compose-the-detail-view)
   * [Create new VStack - Step 1](#create-new-vstack---step-1)
   * [Create new VStack - Step 2](#create-new-vstack---step-2)
   * [Add MapView](#add-mapview)
@@ -61,7 +61,7 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
   * [Add descriptive text](#add-descriptive-text)
   * [Move attributes to HStack](#move-attributes-to-hstack)
   * [Remove green](#remove-green)
-- [Section 7: Run on real device](#section-7--run-on-real-device)
+- [Section 7 - Run on real device](#section-7---run-on-real-device)
   * [Add Account](#add-account)
   * [Assign Team](#assign-team)
   * [Enalbe developer modus on iPad](#enalbe-developer-modus-on-ipad)
@@ -124,15 +124,15 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
 - CMD-Click: Opens context menu
 - CTRL-I: Autoformat (indentation)
 
-# Section 1: Create a New Project and Explore the Canvas
+# Section 1 - Create a New Project and Explore the Canvas
 
 See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Customize-the-Text-View)
 
-# Section 2: Customize the Text View
+# Section 2 - Customize the Text View
 
 See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Create-a-New-Project-and-Explore-the-Canvas)
 
-# Section 3: Combine Views Using Stacks
+# Section 3 - Combine Views Using Stacks
 
 ## Create VStack
 
@@ -172,7 +172,7 @@ See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftu
 
 <img width="1259" alt="image" src="https://github.com/michael-holzheu/Landmarks/blob/main/user-images/222919307-55322c85-2b46-49b0-b188-3bd385799b7b.png">
 
-# Section 4: Create a Custom Image View
+# Section 4 - Create a Custom Image View
 
 ## Add image to asset catalog - Step 1
 
@@ -226,7 +226,7 @@ See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftu
 
 <img width="1261" alt="image" src="https://github.com/michael-holzheu/Landmarks/blob/main/user-images/222921238-a6e0f3bc-b410-40fe-a420-727244e97f48.png">
 
-# Section 5: Use SwiftUI Views From Other Frameworks
+# Section 5 - Use SwiftUI Views From Other Frameworks
 
 ## Create new UI file - Step 1
 
@@ -248,7 +248,7 @@ See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftu
 
 <img width="1261" alt="image" src="https://github.com/michael-holzheu/Landmarks/blob/main/user-images/222922348-982b7fc8-b609-40cd-a88c-992fb1aef8af.png">
 
-# Section 6: Compose the Detail View
+# Section 6 - Compose the Detail View
 
 ## Create new VStack - Step 1
 
@@ -294,7 +294,7 @@ See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftu
 
 <img width="1266" alt="image" src="https://github.com/michael-holzheu/Landmarks/blob/main/user-images/222924331-ff5c9111-a529-44ad-837e-12e340195da4.png">
 
-# Section 7: Run on real device
+# Section 7 - Run on real device
 
 ## Add Account
 
