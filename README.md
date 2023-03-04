@@ -126,11 +126,11 @@ Today we followed the instructions of the Apple tutorial [Creating and Combining
 
 # Section 1 - Create a New Project and Explore the Canvas
 
-See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Customize-the-Text-View)
+See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Create-a-New-Project-and-Explore-the-Canvas)
 
 # Section 2 - Customize the Text View
 
-See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Create-a-New-Project-and-Explore-the-Canvas)
+See original tutorial: [Click here](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Customize-the-Text-View)
 
 # Section 3 - Combine Views Using Stacks
 
